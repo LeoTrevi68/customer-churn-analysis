@@ -59,6 +59,9 @@ The model identifies several key drivers of churn:
 These patterns are consistent with the exploratory data analysis, reinforcing the reliability of the model.
 
 ---
+![Churn Dashboard](images/churn.png)
+
+---
 
 ## Dataset
 
